@@ -1,0 +1,6 @@
+table {table-layout: auto;width: 80%;
+    border-collapse: separate;
+    border-spacing: 5px 10px;
+    border: 2px solid blue;
+    empty-cells: hide;}
+td {text-align: center;border: 1px dotted red;}

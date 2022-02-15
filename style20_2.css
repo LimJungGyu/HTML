@@ -1,0 +1,16 @@
+table{table-layout: fixed; width :80%;
+      border-collapse: collapse;
+      border-top: 5px solid blue;
+      border-bottom: 5px solid blue;
+      border-spacing: 10px;
+      background: skyblue;
+      border-left: skyblue;
+      border-right: skyblue;
+      border: 10px solid blue;/*무시됨*/
+      empty-cells: hide;  /*무시됨*/
+}
+td {text-align: center;border: 1px dotted red;
+      border-bottom: 3px solid blue;}
+td {text-align: center;border: 1px dotted red;}
+tr:first-child{background-color: gray ;}
+tr:hover{background: orange}
